@@ -1,6 +1,6 @@
 <?php
 session_start();
 
-$_SESSION['nama'] = "nabilaaaa";
+$_SESSION['nama'] = "gk ada";
 
 ?>
